@@ -108,6 +108,6 @@ calculate_cylinder_volume(122,133)
 ```
 ### OUTPUT:
 
-<img width="581" height="42" alt="image" src="https://github.com/user-attachments/assets/4697d020-6851-4463-9ac7-8ace546f4bf6" />
+<img width="877" height="478" alt="image" src="https://github.com/user-attachments/assets/f2ab65fd-e2e5-45d6-a9f8-27be1fb273e2" />
 
 ### RESULT:
