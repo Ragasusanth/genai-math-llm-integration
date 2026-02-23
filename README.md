@@ -111,3 +111,10 @@ calculate_cylinder_volume(122,133)
 <img width="877" height="478" alt="image" src="https://github.com/user-attachments/assets/f2ab65fd-e2e5-45d6-a9f8-27be1fb273e2" />
 
 ### RESULT:
+
+The experiment successfully demonstrated:
+- Integration of Gemini AI with mathematical calculations
+- Accurate parameter extraction from natural language
+- Precise volume calculations with appropriate unit handling
+- Robust error management
+- Interactive user interface
