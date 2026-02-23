@@ -8,10 +8,13 @@ To design and implement a Python function for calculating the volume of a cylind
 ### DESIGN STEPS:
 
 #### STEP 1:
+Install required packages
 
 #### STEP 2:
+Give the essential function calling code into it
 
 #### STEP 3:
+Integrate the function into an LLM-based chat completion system with function-calling capabilities.
 
 ### PROGRAM:
 ```
